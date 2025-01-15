@@ -1,1 +1,5 @@
 /output
+.ipynb_checkpoints/
+devbox.json
+devbox.lock
+.gitignore
