@@ -1,5 +1,6 @@
-/output
+output/
 .ipynb_checkpoints/
 devbox.json
 devbox.lock
+undistorted_images/
 .gitignore
